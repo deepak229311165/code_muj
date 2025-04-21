@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeMUJ - Problem Solving Platform
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) application for solving coding problems.
@@ -103,3 +104,6 @@ project/
   - Mongoose
   - JWT
   - bcryptjs 
+=======
+"# code_muj" 
+>>>>>>> cb4f5b8973a2c62f613338bbdd4b3263ad641553
